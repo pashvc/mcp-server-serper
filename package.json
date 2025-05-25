@@ -1,10 +1,10 @@
 {
-  "name": "serper-search-scrape-mcp-server",
+  "name": "@pashvc/mcp-server-serper",
   "version": "0.2.0",
   "description": "Serper MCP Server supporting search and webpage scraping",
   "type": "module",
   "bin": {
-    "serper-mcp": "./build/index.js"
+    "serper-mcp": "build/index.js"
   },
   "files": [
     "build"
