@@ -1,11 +1,9 @@
 # Serper Search and Scrape MCP Server
-[![smithery badge](https://smithery.ai/badge/@marcopesani/mcp-server-serper)](https://smithery.ai/server/@marcopesani/mcp-server-serper)
+[![smithery badge](https://smithery.ai/badge/@pashvc/mcp-server-serper)](https://smithery.ai/server/@pashvc/mcp-server-serper)
 
 A TypeScript-based MCP server that provides web search and webpage scraping capabilities using the Serper API. This server integrates with Claude Desktop to enable powerful web search and content extraction features.
 
-<a href="https://glama.ai/mcp/servers/5zk327i0pj">
-  <img width="380" height="200" src="https://glama.ai/mcp/servers/5zk327i0pj/badge" alt="serper-search-scrape-mcp-server MCP server" />
-</a>
+Enhanced MCP server for advanced Google search with comprehensive operator support, crafted by Pavel Sukhachev (pashvc).
 
 ## Features
 
@@ -135,7 +133,7 @@ The Inspector will provide a URL to access debugging tools in your browser.
 To install Serper Search and Scrape for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@marcopesani/mcp-server-serper):
 
 ```bash
-npx -y @smithery/cli install @marcopesani/mcp-server-serper --client claude
+npx -y @smithery/cli install @pashvc/mcp-server-serper --client claude
 ```
 
 ### Claude Desktop
@@ -168,7 +166,7 @@ Add the server config at:
 ```json
 {
   "mcpServers": {
-    "github.com/marcopesani/mcp-server-serper": {
+    "github.com/pashvc/mcp-server-serper": {
       "command": "npx",
       "args": ["-y", "serper-search-scrape-mcp-server"],
       "env": {

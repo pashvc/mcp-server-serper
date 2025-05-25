@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcopesani/mcp-server-serper.git"
+    "url": "git+https://github.com/pashvc/mcp-server-serper.git"
   },
   "keywords": [
     "mcp",
@@ -48,6 +48,6 @@
     "claude-desktop",
     "modelcontextprotocol"
   ],
-  "author": "Marco Pesani",
+  "author": "Pavel Sukhachev (pashvc)",
   "license": "MIT"
 }
