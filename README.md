@@ -5,6 +5,14 @@ A TypeScript-based MCP server that provides web search and webpage scraping capa
 
 Enhanced MCP server for advanced Google search with comprehensive operator support, crafted by Pavel Sukhachev (pashvc).
 
+---
+
+**👋 Open for Opportunities!**  
+I'm actively seeking new opportunities and collaborations. If you have interesting projects or job opportunities, feel free to reach out!  
+📧 **Contact:** pashvc@gmail.com
+
+---
+
 ## Features
 
 ### Tools
